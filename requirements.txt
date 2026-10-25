@@ -1,0 +1,7 @@
+gymnasium>=1.0
+torch>=2.0
+numpy
+matplotlib
+keyboard
+# Community fork of pygame, used by Gymnasium's render window. Don't install alongside regular pygame.
+pygame-ce
